@@ -19,6 +19,6 @@ A step-by-step notebook‐based workflow to fine-tune Meta-LLaMA-3.1 (8B) using 
 
 ## Requirements
 
-- **Python 3.9+**
+- Python 3.9+
 - A CUDA-compatible GPU (≥16 GB VRAM recommended)
 - A valid [Hugging Face API token](https://huggingface.co/settings/tokens) with write access
